@@ -1,0 +1,12 @@
+.container{
+    width:275px;
+    height:1px;
+    background-color: #fff;
+    overflow: hidden;
+    margin-right:65px;
+}
+
+.loader{
+    height: 100%;
+    background-color: tomato;
+}
